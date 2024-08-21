@@ -26,7 +26,7 @@ This is a console application built with C# and SQLite to help you track a speci
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/habit-tracker.git
+    git clone https://github.com/Eyad-Mostafa/habit-tracker.git
     cd habit-tracker
     ```
 
